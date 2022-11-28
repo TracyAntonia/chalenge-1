@@ -1,0 +1,25 @@
+{
+  "name": "chalenge-1",
+  "version": "1.0.0",
+  "description": "chellenge 1 week 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TracyAntonia/chalenge-1.git"
+  },
+  "keywords": [
+    "speed",
+    "grades",
+    "and",
+    "salary"
+  ],
+  "author": "Tracy Antonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TracyAntonia/chalenge-1/issues"
+  },
+  "homepage": "https://github.com/TracyAntonia/chalenge-1#readme"
+}
