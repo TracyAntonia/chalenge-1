@@ -15,8 +15,8 @@ function grossSalary(benefit, salary){
     }
  
     console.log('Gross salary', gross)
-    console.log('PAYE deductions', PAYE)
-    console.log('NSSF deduction', NSSF)
+    console.log('NSSF deductions', NSSF)
+    console.log('PAYE deduction', PAYE)
     
     
     
@@ -63,4 +63,4 @@ function grossSalary(benefit, salary){
         return netSalary;
 
 }
-        console.log(grossSalary(100000, 5000));
+        inputSalary();
