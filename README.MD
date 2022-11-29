@@ -34,5 +34,8 @@
 The author of this project is:
     - `Antonia Tracy` (https://github.com/TracyAntonia)
 
+# License
+This project is licensed
+
 
 
